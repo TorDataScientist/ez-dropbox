@@ -8,9 +8,6 @@ __pycache__/
 
 backup.py
 
-Dockerfile
-Docker-compose.yaml
-
 test.ipynb
 test.py
 test**
